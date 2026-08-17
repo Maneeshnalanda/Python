@@ -34,3 +34,22 @@ print(name)
 print(age)
 print(city)
 
+# Assigning the Same Value to Multiple Variables
+
+x = y = z = 100
+
+print(x)
+print(y)
+print(z)
+
+
+
+# Reassigning a Variable
+
+name = "maneesh"
+
+print(name)
+
+name = "Kumar"
+
+print(name)
